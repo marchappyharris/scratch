@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:a='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<author><name>Marc Harris</name><email>marc@happyharris.com</email></author>
+								<entry><category term='filter'></category>
+									<title>Mail Filter</title><content/>
+									<a:property name='to' value=
+'ncaa@marcharris.e4ward.com'
+									/><a:property name='label' value='Junk E-mail'/>
+									<a:property name='shouldMarkAsRead' value='true'/>
+									<a:property name='shouldArchive' value='true'/>
+									<a:property name='sizeOperator' value='s_sl'/>
+									<a:property name='sizeUnit' value='s_smb'/>
+								</entry>
+								<entry><category term='filter'></category>
+									<title>Mail Filter</title><content/>
+									<a:property name='to' value=
+'themusicemporium.com'
+									/><a:property name='label' value='Junk E-mail'/>
+									<a:property name='shouldMarkAsRead' value='true'/>
+									<a:property name='shouldArchive' value='true'/>
+									<a:property name='sizeOperator' value='s_sl'/>
+									<a:property name='sizeUnit' value='s_smb'/>
+								</entry>
+</feed>
