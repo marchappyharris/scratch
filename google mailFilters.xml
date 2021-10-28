@@ -5,7 +5,7 @@
 								<entry><category term='filter'></category>
 									<title>Mail Filter</title><content/>
 									<a:property name='to' value=
-'ncaa@marcharris.e4ward.com'
+'quora@marcharris.e4ward.com'
 									/><a:property name='label' value='Junk E-mail'/>
 									<a:property name='shouldMarkAsRead' value='true'/>
 									<a:property name='shouldArchive' value='true'/>
@@ -15,7 +15,7 @@
 								<entry><category term='filter'></category>
 									<title>Mail Filter</title><content/>
 									<a:property name='to' value=
-'themusicemporium.com'
+'lastpass@marc.happyharris.com'
 									/><a:property name='label' value='Junk E-mail'/>
 									<a:property name='shouldMarkAsRead' value='true'/>
 									<a:property name='shouldArchive' value='true'/>
